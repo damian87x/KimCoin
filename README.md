@@ -1,5 +1,6 @@
 KimCoin Core integration/staging tree
 =====================================
+<img src="http://wikielections.com/wp-content/uploads/2017/04/Kim-Jong-un.jpg"/>
 
 [![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
 
